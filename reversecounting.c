@@ -6,7 +6,7 @@ int main()
 {
     int i = 10;
 
-    printf("hello world number \n");
+    printf("hello world reverse number \n");
     for ( i; i--;)
         printf("hello world %d \n", i);
 
