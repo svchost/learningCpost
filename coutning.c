@@ -10,7 +10,6 @@ int main()
     scanf_s("%d", &hello);
     for (i = 0; i < hello; i++)
         printf("hello world %d \n", i);
-    hello--;
 
     if (hello > 50 ) {
         printf("your a jew \n ");
